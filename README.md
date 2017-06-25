@@ -15,3 +15,4 @@ npm start
 | :--- | :--- | :--- |
 | GET | /api/schedule | Get all days of the event |
 | GET | /api/schedule/:day | Get the events for a specific day |
+| GET | /api/venue | Get all event rooms/venues |
