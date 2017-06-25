@@ -1,5 +1,5 @@
 {
-  "name": "server",
+  "name": "denver-comic-con-2017",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,6 +11,7 @@
   "author": "w3cj <cj@null.computer>",
   "license": "MIT",
   "dependencies": {
+    "cors": "^2.8.3",
     "express": "^4.15.3",
     "morgan": "^1.8.2",
     "node-fetch": "^1.7.1"
